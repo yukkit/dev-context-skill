@@ -10,5 +10,5 @@ ID：dev-context-skill
 - `README.md`：安装、使用、记录边界及迁移说明。
 - `skills/development-context/SKILL.md`：记录与检索的工作流程。
 
-来源：用户于 2026-10-26 指定远程仓库；README 和 Skill 路径已在本地检查。该远程的可见性经 GitHub 连接器确认为公开。
+来源：用户于 2026-10-26 指定远程仓库；README 和 Skill 路径已在本地检查；使用本地 Git 凭据访问 GitHub API，完成仓库描述更新及元数据回读校验。
 确认日期：2026-10-26
