@@ -1,0 +1,7 @@
+interface:
+  display_name: "开发上下文"
+  short_description: "Recall and update project and environment context"
+  default_prompt: "使用 $development-context，先查找与当前任务相关的项目和环境记录，并维护已确认的长期信息。"
+
+policy:
+  allow_implicit_invocation: true
